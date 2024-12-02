@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+#  Formula-1-Race-Result-Predictor 
 ```
-⬆️ (Replace above with your app's name)
+
 ```
 
 Description of the app ...
